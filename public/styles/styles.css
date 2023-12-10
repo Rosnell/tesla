@@ -1,0 +1,211 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: hsl(0, 0%, 100%); 
+    color: #333; 
+  }
+  
+  nav {
+    background-color: #333; 
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  nav li {
+    float: left;
+  }
+  
+  nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  nav li a:hover {
+    background-color: #ddd; 
+    color: black;
+  }
+  
+  h1 {
+    color: #d00; /* Titulos */
+  }
+  
+  p {
+    color: #666; /* Gris oscuro para el texto en la pagina de los modelos */
+  }
+  
+  
+  .model-image {
+    max-width: 70%;
+    max-height: 500px;
+    display: block;
+    margin: 0 auto;
+  }
+  
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  nav {
+    margin-bottom: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  nav li {
+    float: left;
+  }
+  
+  nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  nav li a:hover {
+    background-color: #e9e9e9;
+    color: black;
+  }
+  
+  h1 {
+    color: #d00;
+    text-align: center; 
+  }
+  
+  
+  
+  .logo-container {
+    text-align: center;
+  }
+  
+  .logo-container img {
+    max-width: 10%; /* tamaño de la imagen */
+    height: auto; 
+  }
+
+  .contact-info {
+    text-align: center; /* Centra el texto */
+    margin-top: 20px; 
+  }
+
+
+nav {
+    margin-bottom: 20px;
+    text-align: center; 
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    display: inline-block; 
+  }
+  
+  nav li {
+    display: inline; 
+  }
+  
+  nav li a {
+    display: inline-block; 
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  nav li a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  
+  .vision-mission {
+    max-width: 700px; 
+    margin: 0; 
+    text-align: left; 
+    max-width: 500px;
+  }
+  
+  .content-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .logo-container img {
+    max-width: 100px;
+    margin-right: 20px;
+  }
+  
+  .vision-mission {
+    max-width: 600px;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333; 
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333; 
+  }
+  
+   /* Fondo de las paginas de HOME y contacto*/
+
+  .home-page {
+    background-image: url('https://wallpapercosmos.com/w/full/2/1/9/9162-3840x2160-desktop-4k-tesla-model-s-wallpaper-image.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+  
+  .contact-page {
+    background-image: url('https://wallpapercosmos.com/w/full/2/1/9/9162-3840x2160-desktop-4k-tesla-model-s-wallpaper-image.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+  .home-page h2,
+  .home-page p {
+    color: white;
+  }
